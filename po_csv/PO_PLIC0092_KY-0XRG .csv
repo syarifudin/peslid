@@ -1,0 +1,3 @@
+PO NBR,Supplier,Order date,Due Date,Buyer,Remarks,Line,Item  Number,QtyOrder,UM
+PLIC0092,PIL00007  ,09-04-2015,2015-09-10,301367,SEA.F     ,1,FCL22EXD            ,500,PC,
+PLIC0092,PIL00007  ,09-04-2015,2015-09-10,301367,SEA.F     ,2,FCL40EX-D(I)        ,2400,PC,

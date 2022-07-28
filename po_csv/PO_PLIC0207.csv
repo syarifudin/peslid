@@ -1,0 +1,4 @@
+PO NBR,Supplier,Order date,Due Date,Buyer,Remarks,Line,Item  Number,QtyOrder,UM
+PLIC0207,PIZ00003  ,01-04-2016,,301367,TRUCK     ,1,STPCMAPA            ,420,PC,
+PLIC0207,PIZ00003  ,01-04-2016,,301367,TRUCK     ,2,STPCMAPB            ,430,PC,
+PLIC0207,PIZ00003  ,01-04-2016,,301367,TRUCK     ,3,STPCMAPC            ,440,PC,

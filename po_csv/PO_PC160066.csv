@@ -1,0 +1,4 @@
+PO NBR,Supplier,Order date,Due Date,Buyer,Remarks,Line,Item  Number,QtyOrder,UM
+PC160066,PIZ00003  ,06-25-2016,,301367,SEA.F     ,1,EFU11E652V          ,200,PC,
+PC160066,PIZ00003  ,06-25-2016,,301367,SEA.F     ,2,EFU18E652V          ,300,PC,
+PC160066,PIZ00003  ,06-25-2016,,301367,SEA.F     ,3,EFU8E272V           ,100,PC,

@@ -1,0 +1,3 @@
+PO NBR,Supplier,Order date,Due Date,Buyer,Remarks,Line,Item  Number,QtyOrder,UM
+PLIC0002,PIZ00002  ,04-08-2015,2015-05-05,EFDLV11D65L         ,SEA.F     ,1,EFDLV11D65L         ,576,PC,
+PLIC0002,PIZ00002  ,04-08-2015,2015-05-05,EFDLV8L27L          ,SEA.F     ,2,EFDLV8L27L          ,960,PC,
